@@ -1,7 +1,7 @@
-# 🚀 Stanley- Free DDoS Panel 🚀
+# 🚀 YOURC2 PANEL DDOS 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Username: 1337<br>
-> Password: 1337<br>
+> Username: Owner Ganteng<br>
+> Password: hehe<br>
 
 The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
 
@@ -22,29 +22,21 @@ One star from you = more desire to continue updating Stanley
 - [x] Simple
 - [x] Methods for Layer 4 and 7
 - [x] Bypass (CF, OVH, Etc)  
-- The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
+- The source is not mine, I just made a few additions, the original owner of the source 
 
 # Setup
 ```sh
 git clone https://github.com/weird1337/Stanley
-cd Stanley
+cd yourC2
 sudo python3 installer.py
 ulimit -n 999999
 chmod +x *
-sudo python3 stanley.py
+sudo python3 goodc2.py
 ```
 
 # Credits
 ```sh
-CNC Coded SkyWtkh
-MHProDev
-Empfaked
-im-federal
-R00tS3C
-(Methods <3)
-Z3NTL3
-(Inspiration <3)
-```
+#Kyymotherfucker
 
 # TOS:
 ```sh
