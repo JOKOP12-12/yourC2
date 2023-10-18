@@ -26,7 +26,7 @@ One star from you = more desire to continue updating Stanley
 
 # Setup
 ```sh
-git clone https://github.com/weird1337/Stanley
+git clone https://github.com/JOKOP12-12/yourC2
 cd yourC2
 sudo python3 installer.py
 ulimit -n 999999
